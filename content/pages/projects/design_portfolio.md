@@ -281,10 +281,169 @@ Photographing Your Work
 
 Here is the difference between these formats:
 
-|  {{< br >}}{{< br >}} Format {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Capable colors {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} File size {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Loading time {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quality {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} GIF {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 256 colors {{< br >}}{{< br >}} (8 bit) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Small {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Fast {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Low {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} TIF {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Millions {{< br >}}{{< br >}} (24 bit) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Large {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Slow {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} High {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} JPG {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Millions {{< br >}}{{< br >}} (24 bit) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Up-to-you {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Up-to-you {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Up-to-you {{< br >}}{{< br >}}  
+{{< tableopen >}}
+
+
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Format
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Capable colors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+File size
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Loading time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quality
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+GIF
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+256 colors
+
+(8 bit)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Small
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fast
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Low
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+TIF
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Millions
+
+(24 bit)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Large
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+High
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+JPG
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Millions
+
+(24 bit)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Up-to-you
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Up-to-you
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Up-to-you
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 In general, GIF images are smaller and lower quality than TIF. With JPG images, you can choose quality over file size, or file size over quality, but some color information of the image gets lost.
 
@@ -338,13 +497,130 @@ Choose Window -> Show Tools or Window -> Hide Tools to display or hide the toolb
 
 ![Toolbox Palette.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/pm13.jpg)
 
-|  {{< br >}}{{< br >}} **Pointer Tool:** To select , move and resize text blocks and graphics. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Text Tool:** To type, select and edit text {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Rotating Tool:** To select and rotate objects {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Cropping Tool:** To trim imported graphics. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Line Tool:** To draw straight lines in any direction. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Constrained Line Tool:** To draw straight lines in the horizontal or vertical direction. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Rectangle Tool:** To draw squares or rectangles {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Rectangle Frame Tool:** To create a rectangular placeholder for text or graphics. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Ellipse Tool:** To draw ellipes and circles. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Ellipse Frame Tool:** To create a circular or oval placeholder for text and graphics. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Polygon Tool:** To draw basic polygons. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Polygon Frame Tool:** To create a polygonal placeholder for text and graphics. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Hand Tool:** To scroll the page or to preview. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Zoom Tool:** To magnify or reduce an area of the page. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+
+
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Pointer Tool:** To select , move and resize text blocks and graphics.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Text Tool:** To type, select and edit text
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Rotating Tool:** To select and rotate objects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Cropping Tool:** To trim imported graphics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Line Tool:** To draw straight lines in any direction.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Constrained Line Tool:** To draw straight lines in the horizontal or vertical direction.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Rectangle Tool:** To draw squares or rectangles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Rectangle Frame Tool:** To create a rectangular placeholder for text or graphics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Ellipse Tool:** To draw ellipes and circles.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Ellipse Frame Tool:** To create a circular or oval placeholder for text and graphics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Polygon Tool:** To draw basic polygons.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Polygon Frame Tool:** To create a polygonal placeholder for text and graphics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Hand Tool:** To scroll the page or to preview.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Zoom Tool:** To magnify or reduce an area of the page.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Formatting your portfolio with master pages**
 

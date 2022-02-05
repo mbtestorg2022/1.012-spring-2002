@@ -48,15 +48,90 @@ The Decision Analysis Cycle
 
 ![The Design Analysis Cycle.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/decision_analysis.jpg)
 
-| **Deterministic Phase** | **Probabilistic Phase** |
-| 1\. Define Problem and Limits of Investigation | 1\. Express Uncertainty in Variables by Means of Probabilities |
-| 2\. Alternative Courses of Action | 2\. Probabilistic Model |
-| 3\. Outcomes of Each Alternative | 3\. Establish Relative Value of Probabilistic Outcomes |
-| 4\. Select Decision and State Variables | 4\. Probabilistic Sensitivity Analysis |
-| 5\. Relate Outcomes and Variables | &nbsp; |
-| 6\. Time Preference | **Information Phase** |
-| 7\. Dominated Alternatives Eliminated | 1\. Value of Perfect Information |
-| 8\. Sensitivity of Outcome to Variables | 2\. Evaluate Various Information Collection Schemes 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Deterministic Phase**
+{{< tdclose >}}
+{{< tdopen >}}
+**Probabilistic Phase**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Define Problem and Limits of Investigation
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Express Uncertainty in Variables by Means of Probabilities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Alternative Courses of Action
+{{< tdclose >}}
+{{< tdopen >}}
+2\. Probabilistic Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Outcomes of Each Alternative
+{{< tdclose >}}
+{{< tdopen >}}
+3\. Establish Relative Value of Probabilistic Outcomes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Select Decision and State Variables
+{{< tdclose >}}
+{{< tdopen >}}
+4\. Probabilistic Sensitivity Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Relate Outcomes and Variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Time Preference
+{{< tdclose >}}
+{{< tdopen >}}
+**Information Phase**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7\. Dominated Alternatives Eliminated
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Value of Perfect Information
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8\. Sensitivity of Outcome to Variables
+{{< tdclose >}}
+{{< tdopen >}}
+2\. Evaluate Various Information Collection Schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Design Process
 --------------

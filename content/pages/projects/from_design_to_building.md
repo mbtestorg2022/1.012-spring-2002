@@ -22,12 +22,70 @@ The wood will be supplied in form of pine 1 by 4's (3/4" x 31/2" cross-section) 
 
 As a result of your design, you should produce the following deliverables (see at the end of "Task 1" for the timing of the deliverables). Deliverable a) is first done individually, then a) - d) are done by the entire team.
 
-| a) Sketch: | Prepare a sketch of the proposed coat-stand. Try to do it three-dimensionally. |
-| b) Calculations: | Present a calculation which „proves" that the coat-stand has an adequate factor of safety against tipping over. The „design coat", e.g. the heaviest load that the coat-stand must safely carry weighs 10 pounds. Write a short rationale, describing how you define the factor of safety, what you consider to be an adequate factor of safety and why. |
-| &nbsp; | ![Coat-stand.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/coatstandpicture1.jpg) |
-| &nbsp; |  {{< br >}}{{< br >}} As a measure of how sturdy the coat-stand is, you should calculate the expected deflection d, when loaded with the „design coat". (Hint: arm, post and pedestal contribute to the total deformation). Especially if you have complicated shapes, it will be necessary to make a simplified calculation model. Use your engineering judgement! Again it is up to you, to define what acceptable deflections are. Write a short rationale, describing your assumptions and simplifications as well as your reasoning on what is sufficiently sturdy. {{< br >}}{{< br >}} Hint: The Young's modulus of wood is approximately 1.45\*106 psi (10 GPa).  {{< br >}}You can use the program "Frame2D". {{< br >}}{{< br >}}  |
-| c) Drawings | Prepare a plan view and a side view of the finished coat-stand. Then prepare a drawing of each piece of wood that you order and indicate, how you cut out the necessary pieces. |
-| d) Order list: | Make a list of the raw material you need. Specify the dimensions of the pieces of wood. Of course they must be compatible with the available sizes. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+a) Sketch:
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare a sketch of the proposed coat-stand. Try to do it three-dimensionally.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+b) Calculations:
+{{< tdclose >}}
+{{< tdopen >}}
+Present a calculation which „proves" that the coat-stand has an adequate factor of safety against tipping over. The „design coat", e.g. the heaviest load that the coat-stand must safely carry weighs 10 pounds. Write a short rationale, describing how you define the factor of safety, what you consider to be an adequate factor of safety and why.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+![Coat-stand.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/coatstandpicture1.jpg)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+As a measure of how sturdy the coat-stand is, you should calculate the expected deflection d, when loaded with the „design coat". (Hint: arm, post and pedestal contribute to the total deformation). Especially if you have complicated shapes, it will be necessary to make a simplified calculation model. Use your engineering judgement! Again it is up to you, to define what acceptable deflections are. Write a short rationale, describing your assumptions and simplifications as well as your reasoning on what is sufficiently sturdy.
+
+Hint: The Young's modulus of wood is approximately 1.45\*106 psi (10 GPa).  
+You can use the program "Frame2D".
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+c) Drawings
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare a plan view and a side view of the finished coat-stand. Then prepare a drawing of each piece of wood that you order and indicate, how you cut out the necessary pieces.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+d) Order list:
+{{< tdclose >}}
+{{< tdopen >}}
+Make a list of the raw material you need. Specify the dimensions of the pieces of wood. Of course they must be compatible with the available sizes.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each of you should start with sketching the coat-stand to define its approximate shape. While doing this you should also think about how you actually want to build it. Finally you should specify the dimensions and do the necessary calculations.
 

@@ -6,4 +6,4 @@ title: THE GREEN LINE - A Brief History
 uid: 594f882d-29d0-c1c9-3201-59bfb9b4786a
 ---
 
-<img alt="The Green Line - A Brief History." src="/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/briefhistory.jpg" border="0" />
+\<img alt="The Green Line - A Brief History." src="/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/briefhistory.jpg" border="0" />

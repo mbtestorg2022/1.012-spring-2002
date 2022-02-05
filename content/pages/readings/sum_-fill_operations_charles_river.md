@@ -11,14 +11,107 @@ Based on MIT S.M. thesis by Raymond K. S. Ty (1987).
 Boston Peninsula
 ----------------
 
-Surface area initally < 500 acres, only narrow neck (today's Washington St.) was the connection to the mainland, in several locations along the shore there were marshes, several hills served as filling material
+Surface area initally \< 500 acres, only narrow neck (today's Washington St.) was the connection to the mainland, in several locations along the shore there were marshes, several hills served as filling material
 
-|  {{< br >}}{{< br >}} West Cove: {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Filling began 1804 with material from Mt. Vernon à today's Charles St. (WC1) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} North Cove: {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1640 construction of a mill dam/causeway across cove, creating a pond {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1805 filling of mill pond with material from Beacon hill + rubbish (NC1 and NC2) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} East Cove: {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1673: Old Wharfe (wall of wood and granite blocks) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 18th century: several timber wharves, 1st half of 19th century new generation of wharves with granite walls + fill placed between old and new wharves {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1870: Atlantic Ave. is filled at about location of Old Wharfe {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+West Cove:
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Filling began 1804 with material from Mt. Vernon à today's Charles St. (WC1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+North Cove:
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1640 construction of a mill dam/causeway across cove, creating a pond
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1805 filling of mill pond with material from Beacon hill + rubbish (NC1 and NC2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+East Cove:
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1673: Old Wharfe (wall of wood and granite blocks)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+18th century: several timber wharves, 1st half of 19th century new generation of wharves with granite walls + fill placed between old and new wharves
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1870: Atlantic Ave. is filled at about location of Old Wharfe
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![Boston Peninsula.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingboston.jpg)
 

@@ -127,12 +127,81 @@ Not all Groups are Teams: How to Tell the Difference
 
 Katzenbach, Jon R., and Douglas K. Smith. "The Discipline of Teams." _Harvard Business Review_ (1993).
 
-| WORKING GROUP | TEAM |
-| --- | --- |
-| Strong, Clearly Focused Leader | Shared Leadership Roles |
-| Individual Accountability | Individual and Mutual Accountability |
-| The Group's Purpose is the Same as the Broader Organizational Mission | Specific Team Purpose that the Team itself Delivers |
-| Individual Work-products | Collective Work-products |
-| Runs Efficient Meetings | Encourages Open-ended Discussion and Active Problem-solving Meetings |
-| Measures its Effectiveness Indirectly by its Influence on Others | Measures Performance Directly by Assessing Collective Work-products |
-| Discusses, Decides, and Delegates | Discusses, Decides, and Does Real Work Together
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WORKING GROUP
+{{< thclose >}}
+{{< thopen >}}
+TEAM
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Strong, Clearly Focused Leader
+{{< tdclose >}}
+{{< tdopen >}}
+Shared Leadership Roles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Accountability
+{{< tdclose >}}
+{{< tdopen >}}
+Individual and Mutual Accountability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Group's Purpose is the Same as the Broader Organizational Mission
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Team Purpose that the Team itself Delivers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Work-products
+{{< tdclose >}}
+{{< tdopen >}}
+Collective Work-products
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Runs Efficient Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+Encourages Open-ended Discussion and Active Problem-solving Meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Measures its Effectiveness Indirectly by its Influence on Others
+{{< tdclose >}}
+{{< tdopen >}}
+Measures Performance Directly by Assessing Collective Work-products
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discusses, Decides, and Delegates
+{{< tdclose >}}
+{{< tdopen >}}
+Discusses, Decides, and Does Real Work Together
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

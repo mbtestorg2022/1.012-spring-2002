@@ -28,16 +28,120 @@ Lyns? QDs? Not surprisingly, Deltan systems of measurement are as unfamiliar as 
 
 TABLE 1. Measurements on DeltaP
 
-| MEASUREMENT | UNIT OF MEASUREMENT | SYMBOL |
-| --- | --- | --- |
-| Time | Wex | wx |
-| Distance | Lyn | ln |
-| Area | Quarter-Delta | QD |
-| Heat | Deltan Thermal Unit | DTU |
-| Temperature | Degrees Nin | °Nn |
-| Force | Din | Dn |
-| Moment | Lyn-Din | LD |
-| Currency | Zwig | ! 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MEASUREMENT
+{{< thclose >}}
+{{< thopen >}}
+UNIT OF MEASUREMENT
+{{< thclose >}}
+{{< thopen >}}
+SYMBOL
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time
+{{< tdclose >}}
+{{< tdopen >}}
+Wex
+{{< tdclose >}}
+{{< tdopen >}}
+wx
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Distance
+{{< tdclose >}}
+{{< tdopen >}}
+Lyn
+{{< tdclose >}}
+{{< tdopen >}}
+ln
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Area
+{{< tdclose >}}
+{{< tdopen >}}
+Quarter-Delta
+{{< tdclose >}}
+{{< tdopen >}}
+QD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Heat
+{{< tdclose >}}
+{{< tdopen >}}
+Deltan Thermal Unit
+{{< tdclose >}}
+{{< tdopen >}}
+DTU
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Temperature
+{{< tdclose >}}
+{{< tdopen >}}
+Degrees Nin
+{{< tdclose >}}
+{{< tdopen >}}
+°Nn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Force
+{{< tdclose >}}
+{{< tdopen >}}
+Din
+{{< tdclose >}}
+{{< tdopen >}}
+Dn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Moment
+{{< tdclose >}}
+{{< tdopen >}}
+Lyn-Din
+{{< tdclose >}}
+{{< tdopen >}}
+LD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Currency
+{{< tdclose >}}
+{{< tdopen >}}
+Zwig
+{{< tdclose >}}
+{{< tdopen >}}
+!
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 All of DeltaP's units of measure share the divisibility and extensibility conventions of the metric system; in the measure of time, for example, there are both microwex (μwx) and megawex (Mwx). In relation to the attention-and life-spans of Deltans, these units are roughly equivalent to seconds and years, respectively, here on Earth.
 
@@ -73,11 +177,78 @@ All of this – design, fabrication and construction – must be done under a fi
 
 TABLE 2. Summary of Design Specifications
 
-| Functional Internal Area | 100 QD |
-| Maximum Cool Deltas (% Total) | 60-70% |
-| Average Internal Temperature Range | 55-65 °Nn |
-| Individual Delta Temperature Range | 20-85 °Nn |
-| Maximum Load at Anchor Points | 20 Dn |
-| Maximum Internal Moment | 40 LD |
-| Overhead Factor -K | 1.2 |
-| Total Budget | !1400.00
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Functional Internal Area
+{{< tdclose >}}
+{{< tdopen >}}
+100 QD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maximum Cool Deltas (% Total)
+{{< tdclose >}}
+{{< tdopen >}}
+60-70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Average Internal Temperature Range
+{{< tdclose >}}
+{{< tdopen >}}
+55-65 °Nn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Delta Temperature Range
+{{< tdclose >}}
+{{< tdopen >}}
+20-85 °Nn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maximum Load at Anchor Points
+{{< tdclose >}}
+{{< tdopen >}}
+20 Dn
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maximum Internal Moment
+{{< tdclose >}}
+{{< tdopen >}}
+40 LD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Overhead Factor -K
+{{< tdclose >}}
+{{< tdopen >}}
+1.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total Budget
+{{< tdclose >}}
+{{< tdopen >}}
+!1400.00
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
