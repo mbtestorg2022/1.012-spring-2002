@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: design_process.jpg
 uid: ba2fa372-23e0-8d33-e444-119cdbf4ffa0

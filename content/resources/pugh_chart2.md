@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: pugh_chart2.jpg
 uid: ac6e74cf-01ed-ce91-59ad-19d7ada14751

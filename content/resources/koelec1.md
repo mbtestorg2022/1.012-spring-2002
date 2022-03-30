@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: koelec1.gif
 uid: b1c37d94-c1f4-7e8e-1c6b-04db446d2dc3

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: coatstandpicture1.jpg
 uid: 742a09c1-4e6b-bb84-2876-df7f49b17c61

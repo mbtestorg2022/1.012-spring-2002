@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: decision_analysis.jpg
 uid: 597fa4be-b4a8-6ef1-bb30-8dcc7d1b7c1f

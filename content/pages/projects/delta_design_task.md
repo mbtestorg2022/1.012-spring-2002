@@ -22,7 +22,7 @@ The view on this single sheet may not be quite what you expect, however, because
 
 But there is no such thing as a "circle" on DeltaP, nor even the concept of continuity embodied therein. In this flat though angular world, residents construct their artifacts strictly with discrete triangular forms. Of these, the equilateral triangle – with its three perpendicular sides (!) – is considered the most pleasing. Accordingly, your team will design the residence by assembling into a cluster the most prized building materials on DeltaP, equilateral triangular components called "deltas." Deltas come in red and blue versions and always measure 2 lyns per side. Four "quarter-deltas", QDs, triangular units of area measure with sides of 1 lyn, fit within a delta.
 
-![Delta.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/delta_picture1.jpg)
+{{< resource "18f81685-042d-afa4-3b9d-a6a5ffa82782" >}}
 
 Lyns? QDs? Not surprisingly, Deltan systems of measurement are as unfamiliar as that for spatial coordinates. Table 1 summarizes the measurement schemes on DeltaP that you will need to know to carry out your design task.
 

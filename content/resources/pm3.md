@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: pm3.jpg
 uid: 3a8dc17d-b2a1-38fa-cfb8-c25de0a97085

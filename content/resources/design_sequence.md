@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: design_sequence.jpg
 uid: 2a0eca1c-c36a-b431-f250-b6e6082ddc6a

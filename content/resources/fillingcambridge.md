@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: fillingcambridge.jpg
 uid: 586e83a3-c5f3-53a4-6a38-20565e80bead

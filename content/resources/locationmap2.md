@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: locationmap2.gif
 uid: 51ea80dc-c301-8c6a-b7a8-69a47bc6dd7e

@@ -39,14 +39,14 @@ Learning of Design
 
 (with selected feedback cycles)
 
-![Design Sequence.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/design_sequence.jpg)
+{{< resource "2a0eca1c-c36a-b431-f250-b6e6082ddc6a" >}}
 
 The Decision Analysis Cycle
 ---------------------------
 
 (after Stael von Holstein, 1973)
 
-![The Design Analysis Cycle.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/decision_analysis.jpg)
+{{< resource "597fa4be-b4a8-6ef1-bb30-8dcc7d1b7c1f" >}}
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -138,28 +138,28 @@ Design Process
 
 _The "Design Circle"_
 
-![The Design Circle.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/design_process.jpg)
+{{< resource "ba2fa372-23e0-8d33-e444-119cdbf4ffa0" >}}
 
 _The "Design Spiral"_
 
-![The Design Spiral.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/design_process2.jpg)
+{{< resource "3d5656fb-1db5-6503-6ff6-fa900a9dadfb" >}}
 
 Pugh Chart
 ----------
 
-![Pugh Chart.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/pugh_chart.jpg)
+{{< resource "bea18b48-f25f-7ebd-a981-b03143ccc20b" >}}
 
 Pugh Chart / House of Quality
 -----------------------------
 
-![Pugh Chart / House of Quality.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/pugh_chart2.jpg)
+{{< resource "ac6e74cf-01ed-ce91-59ad-19d7ada14751" >}}
 
 Screening Matrix
 ----------------
 
-![Screening Matrix.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/screening_matrix.jpg)
+{{< resource "b4a87b86-1438-8b19-b2d3-7eb8cc378969" >}}
 
 Scoring Matrix
 --------------
 
-![Scoring Matrix.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/scoring_matrix.jpg)
+{{< resource "f96097b0-cb2a-68ad-daa3-2c58e5f8e444" >}}

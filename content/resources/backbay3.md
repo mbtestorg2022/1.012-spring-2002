@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: backbay3.jpg
 uid: 80374f15-c2bd-91ac-7666-f14b7ed8a9fa

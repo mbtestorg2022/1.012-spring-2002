@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: groundwater.gif
 uid: e28f0ec2-fa55-0cd1-7a6e-53e2cd9ccc3f

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: briefhistory.jpg
 uid: 51c5e37d-5f6e-f7e2-391c-4df0e0f7cc51

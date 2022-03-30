@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: fillingbackbay.jpg
 uid: 20e7b19b-3384-d2bb-6f40-ec287068d780

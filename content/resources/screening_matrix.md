@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: screening_matrix.jpg
 uid: b4a87b86-1438-8b19-b2d3-7eb8cc378969

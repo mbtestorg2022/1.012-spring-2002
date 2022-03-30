@@ -120,7 +120,7 @@ The initial leg ran beneath Boston Common between the Park Street terminal and t
 
 The Boston Elevated Railway Company was designated to build and to operate a combination subway and elevated line under the provisions of a 20-year lease negotiated with the Transit Commission in 1896.
 
-![Park System.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/koelec1.gif)
+{{< resource "b1c37d94-c1f4-7e8e-1c6b-04db446d2dc3" >}}
 
 Park system.
 
@@ -164,7 +164,7 @@ Routing of El trains through the trolley subway commenced. A major change in sur
 
 With 200,000 fares on the first day of operation, the Roxbury-Charlestown line was an immediate success.
 
-![Street railway tracks.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/2.jpg)
+{{< resource "28ac21b7-aa52-a8d6-4520-65cf067b0fcd" >}}
 
 Street railway tracks.
 

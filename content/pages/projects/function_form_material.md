@@ -24,7 +24,7 @@ Material
 
 Since this is for most of you an initial design experience, the problem will be somewhat constrained. Each of you will, therefore, work with a given set of materials. Specifically, you will receive 2 aluminum cubes, 6 plexiglass cubes, 9 trapezoidal prisms and 6 equilateral triangular prisms made of plexiglass. In addition, you will get a small tube of glue, tape and a set of rubber bands:
 
-![Cube, trapezoidal prism and traingular prism.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/paperweight1.jpg)
+{{< resource "b32e8996-daa9-c250-809a-a7aac3515385" >}}
 
 Task 1 - Building of Free Structures
 ------------------------------------

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: soilprofile.jpg
 uid: 9db95ec1-395c-4df1-03f5-ddcb209d13d9
