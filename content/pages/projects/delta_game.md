@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Delta Game
 uid: 7ea082d1-5983-88cd-53a7-36a57dcdac35

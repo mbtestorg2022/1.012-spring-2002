@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Massachusetts and New England Resources
 uid: 6e4919c0-5aaf-23b5-893a-a9dda8a943e6

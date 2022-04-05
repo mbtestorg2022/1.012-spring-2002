@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Charles River Dam, Design Memorandum No. 2
 uid: ee58b07b-d704-20f6-c849-d600acba24d8

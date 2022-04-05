@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Short Summary of Filling Operations in Charles River Basin
 uid: 8d0b5c35-f80b-5537-ece5-65e21f16efa2
@@ -113,7 +117,7 @@ East Cove:
 
 {{< tableclose >}}
 
-{{< resource "1156eea8-5da6-1943-a0b7-aad0b84a212b" >}}
+![Boston Peninsula.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingboston.jpg)
 
 Back Bay
 --------
@@ -128,7 +132,7 @@ Before it was filled it was a large area of marshy flats with channels for river
 *   1805: start of filling with city ashes and other refuse (BB1), 1830-1850 small fills (BB2)
 *   1860-1880: major filling: area from Arlington St. to Mass Ave. (BB3 - BB5), concurrently a seawall was built along the Charles River and backfilled with river material and sand/gravel from Needham, creating Back St. (BB3A - BB5A)
 
-{{< resource "20e7b19b-3384-d2bb-6f40-ec287068d780" >}}
+![Back Bay.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingbackbay.jpg)
 
 Back Bay Fens
 -------------
@@ -138,7 +142,7 @@ Back Bay Fens
 *   Along the Charles River construction of seawalls and backfilling (F1 - F3). Dredging resulted in the removal of unsightly flats in front of the seawall and in the deepening of Charles river for navigation.
 *   Together with the construction of Back Bay Park, covered channels for Stony Brook and Muddy River were built. The original rivers were filled with gravel.
 
-{{< resource "c9c972a0-b701-81d7-e151-facf7006a65d" >}}
+![Filling Fens.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingfens.jpg)
 
 Cambridge and Allston
 ---------------------
@@ -158,14 +162,14 @@ Originally there was a broad floodplain of the river with salty marshes, springs
 *   1898 - 1902: filling on south side of Charles River between Boylston St. and Arsenal St. bridge (C10)
 *   City dump site in North Cambridge (C11): refuse dumping between 1946 and 1971
 
-{{< resource "586e83a3-c5f3-53a4-6a38-20565e80bead" >}}
+![Cambridge and Allston.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingcambridge.jpg)
 
 Charlestown
 -----------
 
 Charlestown was originally a triangular peninsula, connected to the mainland through a neck at the NW-part of the town. It was once the junction of the Charles, Miller's and Mystic River. Connections to Boston with Charles River Br. (1786), Warren Br. (1828) and later Prison Point Bridge
 
-{{< resource "bf0d4279-9530-74ba-4bd0-b63b3d28c868" >}}
+![Charlestown.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingcharlestown1.jpg)
 
 *   1840 - 1880: foundation of navy yard and continuing filling operations (CT1)
 *   In the East there was a protected deepwater cove (Town Dock) which was important for trade and shipping. Later a bridge obstructed the dock and 1835 a fire destroyed most of it à the area was filled (partially with rubble from the fire) (CT2)
@@ -174,4 +178,4 @@ Charlestown was originally a triangular peninsula, connected to the mainland thr
 *   The original west shoreline ran approx. along today's Main St. with large flats adjacent to it. In early 18th century there was a Mill Dam enclosing a pond which was filled in 1880 (CT6)
 *   Mystic Wharf was built in 1890 to the north of the Charlestown peninsula (CT7)
 
-{{< resource "a58d2b29-413c-3b44-0288-dfb243648afc" >}}
+![Mystic Wharf in Charlestown.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/readings/fillingcharlestown2.jpg)

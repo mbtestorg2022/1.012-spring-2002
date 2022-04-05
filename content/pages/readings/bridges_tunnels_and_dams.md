@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Some Famous Civil Engineering Projects - Bridges, Tunnels and Dams
 uid: 91f6c81f-ae89-d748-0739-a62603bbba8a

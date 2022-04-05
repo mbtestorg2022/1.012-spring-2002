@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: From Designing to Building
 uid: defaeb55-0476-b281-9fdb-cbbbca4f22bd
@@ -46,7 +50,7 @@ Present a calculation which „proves" that the coat-stand has an adequate facto
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource "742a09c1-4e6b-bb84-2876-df7f49b17c61" >}}
+![Coat-stand.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/coatstandpicture1.jpg)
 {{< tdclose >}}
 
 {{< trclose >}}

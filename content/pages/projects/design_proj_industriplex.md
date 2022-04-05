@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Design Project - Industriplex
 uid: efd65195-3799-9be8-48d4-d83b6094caed
@@ -24,24 +28,24 @@ Industriplex is a 244 acres (987,430 m2) site located near the intersection of I
 
 Figure 1:
 
-{{< resource "cf0799a4-1a86-3a41-92ef-c38559353521" >}}
+![Figure 1.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/locationmap.gif)
 
 Figure 2a:
 
-{{< resource "c0c38ddd-517f-6762-6548-bd4feb221b7f" >}}
+![Figure 2a.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/grallocation.gif)
 
 Figure 2b:
 
-{{< resource "e3b81ee1-8420-ebad-1771-b71cc2a8fd9a" >}}  
+![Figure 2b.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/grallocationb.gif)  
 The Industriplex site and the Wells G + H site located just south of Rt. 128 (Figure 1 or 2a) are federal Superfund sites. Woburn drew national attention in the late 1970s when Wells G + H, two of the city wells, were discovered to be contaminated and in the 1980s with the subsequent court cases. In the Fall of 1995 there was the book called, "A Civil Action" on which last years movie was based, detailing the landmark trial involving numerous Woburn families who filed suit against several firms claiming the incidence of childhood leukemia was much higher locally because of the contaminated wells.
 
 Figure 3: Hide Pile locations:
 
-{{< resource "db618ef5-ab0e-98fd-7fec-8e2a957687bd" >}}
+![Hide Pile locations.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/pileslocation.gif)
 
 Figure 4: Topographic Map
 
-{{< resource "7c7cda2c-2e24-9faf-3e6c-dbc3c47f98a6" >}}
+![Topographic Map.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/mapwoburn1.gif)
 
 These wells were closed in 1979. The Industriplex site was the location of leather and chemical industry for a century from the 1850’s till 1963., Contamination ranged from discharges of arsenic and chromium, and volatile organic compounds to the burying of large amounts of animal hides. However, due to joint efforts of the EPA, the Massachusetts Department for Environmental Protection and the Industriplex Residential Trust, which represents the property owners, the contaminated parts of the site have been concentrated in four places. They are covered and are monitored (Figure 3). The site is ready for development which has already started and as such will serve as a national and possibly worldwide example.
 
@@ -62,7 +66,7 @@ In the presentation at the end of 1.012, you will describe your refined plan and
 Figure 5: Aerial View of the Route 128 and I 93 Interchange, Industri-Plex and environs.  
 Industry fills the area to the left of I-93 and above Route 128 (I-95). The area below Route 128 belongs to another industrial park. The residential west end of Reading, Massachusetts is to the right of I-93. The chromium lagoons and arsenic pits were located mostly in the upper third of the site, as well as the hide piles (relocated after excavations when buildings were constructed)
 
-{{< resource "fc205cb6-1d6b-fd06-f09d-fb8e2cbc83ad" >}}  
+![Aerial View of the Route 128 and I 93 Interchange, Industri-Plex and environs.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/junction.gif)  
 
 **The Woburn Industri-Plex Site**
 
@@ -73,11 +77,11 @@ Woburn, Massachusetts is located approximately 10 miles north of Boston (figure 
 
 Figure 6 Location Map:
 
-{{< resource "51ea80dc-c301-8c6a-b7a8-69a47bc6dd7e" >}}
+![Location Map.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/locationmap2.gif)
 
 Figure 7 Wells G + H:
 
-{{< resource "ba754123-d799-f7f1-054c-48df5948bc3a" >}}
+![Wells G + H.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/wells.gif)
 
 The city has two federal Superfund sites, the Industriplex, Wells G & H (figure 7), and forty state Superfund sites. In 1979 the Massachusetts Department of Environmental Protection (DEP) closed the two municipal water supply wells because the water contained high levels of volatile organic contamination. During the same year the Environmental Protection Agency identified the Industriplex hazardous waste site as one of the largest hazardous waste sites in the country. It was ranked number 5 on the National Priorities List of Superfund sites.
 
@@ -90,11 +94,11 @@ The Industriplex property contains two branches of the Aberjona River (figure 8)
 
 Figure 8: Aberjona River Watershed
 
-{{< resource "579f8747-ed4f-25fd-7e72-ef70df75fc88" >}}
+![Aberjona River Watershed.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/watershed.gif)
 
 Figure 9: Chemical Disposal
 
-{{< resource "ffc8ec20-d54a-a6ff-86fe-c266869d578d" >}}
+![Chemical Disposal.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/chromium.gif)
 
 Site Setting
 ------------
@@ -129,11 +133,11 @@ The site was "remediated" (in fact it was only contained) by the Industri-Plex R
 
 Figure 10: Section of the caps
 
-{{< resource "4b299e6f-b7fb-2381-a611-416ef9edde70" >}}
+![Section of the caps.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/caplayers.gif)
 
 Figure 11
 
-{{< resource "d7f2a022-ad99-3313-5e58-9af47ae658be" >}}
+![Figure 11.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/origcovers.gif)
 
 1.  The design and construction of permeable caps to cover nearly 110 acres of soils and sediments contaminated with lead , arsenic and chromium above federal action levels shown in Figure 10;  
     
@@ -150,23 +154,23 @@ Figure 11
     
     Figure 12: Location of hide piles
     
-    {{< resource "870401cb-6910-fbe1-0479-2d5c9be70def" >}}
+    ![Location of hide piles.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/plan1.gif)
     
 2.  In addition to the aforementioned layers, the East hide pile was covered with an impermeable cap of soil over a drainage layer, a layer of impermeable synthetic membrane instead of the permeable membrane and a 12-inch layer of gravel to absorb the gases that caused the odor. Unlike the permeable layer, this cap will provide a barrier, restricting the flow-through of liquids and gases. A gas collection system was built under the impermeable layer to collect and treat hydrogen sulfide gas and other gases produced by the decomposition of organic hide wastes (source of odors). Currently, the impermeable cap and the gas collection and treatment system are complete (figure 14).
     
     Figure 13: Groundwater treatment system
     
-    {{< resource "e28f0ec2-fa55-0cd1-7a6e-53e2cd9ccc3f" >}}
+    ![Groundwater treatment system.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/groundwater.gif)
     
     Figure 14: Gas collection and treatment system
     
-    {{< resource "c6c3bf71-2307-1fe7-e3dc-e2f51e2db774" >}}
+    ![Gas collection and treatment system.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/torchbldg.gif)
     
 3.  The design of the interim groundwater treatment system (figure 13) was initially completed in 1992, however the system was altered to reflect changes from a pilot air sparging design in 1993. The air sparging system was operational for a short time in 1994 until it was discovered that the system failed to meet design standards. The system is currently undergoing alterations for an oxygen injection design and may be operational in 1998.
     
     Figure 15: Institutional Controls
     
-    {{< resource "c9d3473e-2612-c919-6a61-1903314912c8" >}}
+    ![Institutional Controls.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/instcontrols.gif)
     
 4.  A draft Institutional Controls document was prepared by the potentially responsible parties in 1996 and is expected to be finalized by the EPA/DEP by year-end 1997. The draft Institutional Controls document divides the property within the site into four categories or “classes” of land shown in figure 15, in order to establish a clear method of regulating land use and minimizing the risks of exposure. The most stringent controls exist for Class D land (the hide piles) with progressively less stringent controls on Class C, Class B, and Class A. Class A land has been found to comply with the S-1 category of soil under the Massachusetts Contingency Plan, and has unlimited uses, except for a prohibition on groundwater use until such time as the EPA/DEP determine otherwise.
 
@@ -187,11 +191,11 @@ At this point, the redevelopment is comprised of several mayor projects: the int
 
 Figure 16a: Redevelopment projects
 
-{{< resource "cefcf750-5fe7-7c52-ed3e-58db726cf30e" >}}
+![Redevelopment projects.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/redevelop.gif)
 
 Figure 16b: New exit off I-93
 
-{{< resource "015e03fc-d2e4-343e-0351-9bb3295223a7" >}}
+![New exit off I-93.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/interchange.gif)
 
 In order to implement the cleanup, the EPA designated a custodial trust in the consent decree to overlook the remediation process. As part of the settlement, in exchange for giving the land to the Custodial Trust, the previous owner did not have to pay for the cleanup. Money from the sale of the land would go to pay the City of Woburn for back taxes, the EPA, MA DEP and the Remedial Trust.
 
@@ -216,15 +220,15 @@ The planned infrastructure improvements will significantly increase the value an
     
     Figure 17: RTC, interchange and wetlands
     
-    {{< resource "9e606f8b-1d8d-eb26-64ef-235d0e8f9d9e" >}}
+    ![RTC, interchange and wetlands.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/rtcwetland.gif)
     
     Figure 18: Extension of Commerce Way
     
-    {{< resource "1e0b7374-49e9-4063-28a2-9943241e9082" >}}
+    ![Extension of Commerce Way.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/masterplan1.gif)
     
     Figure 19: Quarry Pond
     
-    {{< resource "e12156f6-1291-3ffb-350e-81d173ddf248" >}}
+    ![Quarry Pond.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/airview2.gif)
     
     This center is being funded by the State of Massachusetts. Located on a parcel of land adjacent to the MBTA Lowell Line, the transportation center will provide a 2,500-car park-and-ride and links to subway, commuter rail and Logan Airport shuttlebus connection. This center will be operated by the MBTA and the Massachusetts Port Authority. The Transportation Center will be of particular importance to the region, as it will help meet critical regional transportation needs. It also will help with traffic problems associated with the central artery. Construction started on the Center during spring of 1997, after the owner of the 20 acre property, Janpet Associates, declared bankrupcy.
     
@@ -259,11 +263,11 @@ _MetroNorth Retail Center (Parcel A shown in figure 20)_
 
 Figure 20: Parcels A & B and Mishawum Rail Station
 
-{{< resource "aa41bc80-4bb6-1df3-f736-7c04508c6fb6" >}}
+![Parcels A & B and Mishawum Rail Station.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/parcelsa_b.gif)
 
 Figure 21: Proposal showing maximum building area for parcel B
 
-{{< resource "79d44237-bcf5-6d5a-647e-157c9d346835" >}}
+![Proposal showing maximum building area for parcel B.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/proposalparcelb.gif)
 
 MetroNorth Corporate Center (Parcel B)
 --------------------------------------
@@ -316,11 +320,11 @@ Woburn’s Citizen Advisory Committee raised questions over the alternate design
 
 Figure 22: EPA recommended design
 
-{{< resource "61baddc0-86a2-75e5-4cdb-7fec7fcdea84" >}}
+![EPA recommended design.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/epacover.gif)
 
 Figure 23: Actual design implemented
 
-{{< resource "4b299e6f-b7fb-2381-a611-416ef9edde70" >}}
+![Actual design implemented.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/caplayers.gif)
 
 Allegations of improper conduct during the construction of the remedial cap were under investigation by several government agencies. A former site worker had filed suit alleging improper conduct during the construction activities. Charges have been brought against the firms in charge of implementing the cleanup for discharge from the Industri-Plex site into streams and drainways. In one case, during the day shift, when EPA supervisors were on site, water from the site was pumped into tanker trucks so that it could be transported for treatment at an off-site plant. But during the night a witness claimed to have seen workers pumping water into the drainway that empties into the Aberjona River.
 
@@ -332,7 +336,7 @@ Soil contamination inside the Industri-Plex site property boundary has been well
 
 Questions were raised over the waiver of the of an impact study relative to the proposed new ramp from I-93. To speed up the construction of the interchange due to development pressures, submission of the environmental impact studies was waived.
 
-{{< resource "67093272-5ecd-d3d2-b5be-7a688ac684d3" >}}
+![Warning.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/sign.gif)
 
 Other Redevelopment Examples
 ----------------------------
